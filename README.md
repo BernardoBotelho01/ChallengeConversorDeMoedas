@@ -31,7 +31,8 @@ Challenge Conversor de Moedas
 Opção: 1
 Digite o valor a ser convertido: 10.5
 
-Convertido 10.50 USD para 54.65 BRL
+Convertendo 10,50 Dólares (USD) que e = 61,77 Reais (BRL)
+
 ```
 
 ## 📚 Histórico de Conversões
