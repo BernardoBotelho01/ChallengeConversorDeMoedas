@@ -1,4 +1,4 @@
 package br.model;
 
-public class Conversao {
+public record Conversao (double valorConvertido){
 }
