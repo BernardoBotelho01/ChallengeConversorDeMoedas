@@ -38,7 +38,7 @@ Convertido 10.50 USD para 54.65 BRL
 
 O histórico das conversões é salvo automaticamente no arquivo `historico.txt` e pode ser consultado escolhendo a opção **7** no menu principal.
 
-## 👨‍💻 Autor
+## 👨🏻‍💻 Autor
 
 - Bernardo Botelho
 
